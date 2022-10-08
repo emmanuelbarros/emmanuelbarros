@@ -27,6 +27,6 @@
 </div>
 
 
-
+![Snake animation](https://github.com/emmanuelbarros/emmanuelbarros/blob/output/github-contribution-grid-snake.svg)
 
           

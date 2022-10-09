@@ -8,7 +8,7 @@
 <div>     
      <a hrf="https://https://github.com/emmanuelbarros">
      <img width="350em" height="170em" src= "https://github-readme-stats.vercel.app/api?username=emmanuelbarros&show_icons=true&theme=dark&title_color=3CB371&icon_color=00FFFF&text_color=B0E0E6&include_all_commits=true&count_private=true"/>     
-     <img width="350em" height="170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelbarros&layout=compact&langs_count=16&theme=dark&title_color=3CB371"/>
+     <img width="350em" height="170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelbarros&layout=compact&langs_count=15&theme=dark&title_color=3CB371"/>
 </div>
 
 <div style="display: inline_block"><br>  

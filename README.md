@@ -2,8 +2,8 @@
 
 
 - 🔭 Cursando Ciência da Computação
-- 🌱 Estudando Python
-- 🤔 Conhecimento básico em C e HTML
+- 🌱 Estudando JS, CSS
+- 🤔 Conhecimento: Básico em C, HTML, Python
 
 <div>     
      <a hrf="https://https://github.com/emmanuelbarros">

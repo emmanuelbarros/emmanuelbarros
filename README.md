@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando Ciência da Computação
-- 🌱 Estudando JS, CSS
+- 🌱 Estudando JS
 - 🤔 Conhecimento: Básico em C, HTML, Python
 
 <div>     
